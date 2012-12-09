@@ -1,0 +1,15 @@
+{
+	"manifest_version":2,
+	"name":"YT Native Center Layout",
+	"version":"0.1",
+	"description":"Center the Youtube layout",
+	"content_scripts":[
+		{
+		  "matches": ["http://*.youtube.com/*","https://*.youtube.com/*"],
+		  "permissions":["http://*.youtube.com/*","https://*.youtube.com/*"],
+		  "css":["css/style.css"],
+		  "js":["js/jquery-1.8.3.min.js","js/script.js"],
+		  "run_at": "document_end"
+		}
+	]
+}
