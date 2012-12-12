@@ -1,1 +1,1 @@
-jQuery('body').removeClass('site-left-aligned').addClass('site-center-aligned');
+document.body.classList.remove('site-left-aligned')
