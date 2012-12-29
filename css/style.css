@@ -1,3 +1,4 @@
-#page.watch #guide-container.collapsible-guide{left:-120px}
-.watch-medium #watch7-player.flash-player,.watch-medium .watch7-playlist .watch7-playlist-bar{width:100%}
-.exp-new-site-width #page.search-base{width:1003px}
+#page.watch #guide-container{left:-120px !important}
+.watch-medium #watch7-player,.watch-medium .watch7-playlist .watch7-playlist-bar{width:100% !important}
+.exp-new-site-width #page.search-base{width:1003px !important}
+#watch7-main-container .maWide{width:100% !important} /** Fix for Magic Youtube Actions **/
