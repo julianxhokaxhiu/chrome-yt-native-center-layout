@@ -9,3 +9,4 @@ var sidebarFix = setInterval(function(){
     }
 },1);
 document.body.classList.remove('site-left-aligned');
+document.body.classList.remove('flex-width-enabled');
