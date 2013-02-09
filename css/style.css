@@ -6,3 +6,4 @@
 #watch7-main-container .maWide{margin-top:5px} /*** Fix for Magic Youtube Actions ***/
 .black-video-background #page.watch #guide-container.branded,.guide-context-item.context-playing a{background:rgba(0,0,0,0.8)}
 .black-video-background .guide-context-item .title{color:#ccc}
+.black-video-background .guide-context-item a:hover .title,.black-video-background .guide-context-item.context-playing .title{color:#333}

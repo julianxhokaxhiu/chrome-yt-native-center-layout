@@ -2,7 +2,7 @@
 
 **AUTHOR:** Julian Xhokaxhiu
 
-**VERSION:** 0.1.9
+**VERSION:** 0.1.10
 
 **DESCRIPTION:** Center the Youtube layout
 
