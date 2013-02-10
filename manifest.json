@@ -1,7 +1,7 @@
 {
 	"manifest_version":2,
 	"name":"YT Native Center Layout",
-	"version":"0.1.10",
+	"version":"0.1.11",
 	"description":"Center the Youtube layout",
 	"content_scripts":[
 		{
