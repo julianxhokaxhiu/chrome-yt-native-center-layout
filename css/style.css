@@ -3,6 +3,7 @@
 .exp-new-site-width #page{margin:0 auto !important}
 .exp-new-site-width #page.search,.exp-new-site-width #page.watch{width:1003px !important}
 .sidebar-expanded #watch7-video{width:100% !important}
+.sidebar-expanded .watch7-playlist{left:0 !important}
 #watch7-container #player-api{margin:0 0 0 30px !important}
 #watch7-container.watch-wide #player-api{margin:0 auto !important}
 #footer-hh #footer-hh-main{width:650px;margin:0 auto}
