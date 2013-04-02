@@ -6,8 +6,8 @@
 .sidebar-expanded .watch-wide .watch7-playlist{left:46px !important}
 .sidebar-expanded #watch7-main{width:945px !important}
 .sidebar-expanded #watch7-video{width:100% !important}
-#watch7-container #player-api{position:relative;width:890px;margin:0 auto}
-#watch7-container.watch-wide #player-api{width:854px;margin:0 auto !important}
+#watch7-container #player-api{position:relative;left:-124px;width:640px;margin:0 auto}
+#watch7-container.watch-wide #player-api{left:0;width:854px;margin:0 auto !important}
 #watch7-container #player-api embed{position:absolute;left:0;width:640px !important;height:390px !important}
 #watch7-container.watch-wide #player-api embed{width:100% !important;height:100% !important}
 #footer-hh #footer-hh-main{width:650px;margin:0 auto}
