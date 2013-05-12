@@ -2,9 +2,9 @@
 .watch-medium #watch7-player,#watch7-main-container .maWide{margin:0 auto}
 .exp-new-site-width #page{margin:0 auto !important}
 .exp-new-site-width #page.search{width:1003px !important}
-.sidebar-expanded .watch7-playlist{position:relative;margin:0 auto}
-.sidebar-expanded .watch-wide .watch7-playlist{left:46px !important}
-.sidebar-expanded #watch7-main{width:945px !important;margin:0 auto !important}
+.sidebar-expanded .watch7-playlist{position:relative;margin:0 auto;width:915px !important}
+.sidebar-expanded .watch-wide .watch7-playlist{left:15px !important;width:854px !important}
+.sidebar-expanded #watch7-main{width:955px !important;margin:0 auto !important}
 .sidebar-expanded #watch7-video{width:100% !important}
 #watch7-container #player-api{position:relative;left:-153px;width:640px;margin:0 auto}
 #watch7-container.watch-wide #player-api{left:0;width:854px;margin:0 auto !important}
